@@ -8,13 +8,41 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name=".MainActivity"
+            android:name=".Botones"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".FrameLayout"
+            android:label="@string/title_activity_main_activity2_activity__frame_layout" >
+        </activity>
+        <activity
+            android:name=".Grid_Layout"
+            android:label="@string/title_activity_main_activity2_activity_grid__layout" >
+        </activity>
+        <activity
+            android:name=".Linear_Layout"
+            android:label="@string/title_activity_main_activity2_activity_linear__layout" >
+        </activity>
+        <activity
+            android:name=".Relative_Layout"
+            android:label="@string/title_activity_main_activity2_activity_relative__layout" >
+        </activity>
+        <activity
+            android:name=".Table_Layout"
+            android:label="@string/title_activity_main_activity2_activity_table__layout" >
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_botones" >
+        </activity>
+        <activity
+            android:name=".TextView"
+            android:label="@string/title_activity_text_view" >
         </activity>
     </application>
 
