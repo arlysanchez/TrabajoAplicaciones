@@ -3,4 +3,24 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_prueba">prueba</string>
+    <string name="title_activity_main_activity2_activity__frame_layout">
+        MainActivity2Activity_FrameLayout
+    </string>
+    <string name="title_activity_main_activity2_activity_grid__layout">
+        MainActivity2ActivityGrid_Layout
+    </string>
+    <string name="title_activity_main_activity2_activity_linear__layout">
+        MainActivity2ActivityLinear_Layout
+    </string>
+    <string name="title_activity_main_activity2_activity_relative__layout">
+        MainActivity2ActivityRelative_Layout
+    </string>
+    <string name="title_activity_main_activity2_activity_table__layout">
+        MainActivity2ActivityTable_Layout
+    </string>
+    <string name="title_activity_botones">Botones</string>
+    <string name="title_activity_text_view">TextView</string>
+    <string name="title_activity_check_box_radio__button">CheckBoxRadio_Button</string>
+    <string name="title_activity_lista_desplegable">Lista_desplegable</string>
 </resources>
